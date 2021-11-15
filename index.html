@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  
+.pulsate {
+    -webkit-animation: pulsate 5s ease-out;
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.5;
+}
+@-webkit-keyframes pulsate {
+    0% { 
+        opacity: 0.0;
+    }
+    50% { 
+        opacity: 1.0;
+    }
+    100% { 
+        opacity: 0.0;
+    }
+}
+
+h1   {
+font-family: Arial;
+margin: 0;
+position: absolute;
+top: 50%;
+left: 50%;
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
+}
+  
+</style>
+</head>
+<body>
+
+
+ <div class="pulsate">
+   <h1>Site under construction.</h1>
+ </div>
+
+
+</body>
+</html>
