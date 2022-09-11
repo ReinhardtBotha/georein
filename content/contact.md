@@ -1,6 +1,5 @@
 ---
 title: "Contact"
-#layout: contact
 ShowReadingTime: false
 ShowWordCount: false
 ShowBreadcrumbs: false
