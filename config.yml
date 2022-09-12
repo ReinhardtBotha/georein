@@ -20,9 +20,9 @@ languages:
     weight: 1    
     menu:
       main:
-#        - name: Home
-#          url: //
-#          weight: 1
+        - name: Home
+          url: //
+          weight: 1
         - name: Posts
           url: /posts/
           weight: 2
@@ -89,12 +89,15 @@ params:
       Enjoy!
       
   socialIcons:
-    - name: linkedin-simple
+    - name: telegram
+      url: "https://t.me/georein"
+    - name: linkedin
       url: "https://www.linkedin.com/in/wrbotha"
     - name: youtube-simple
       url: "https://www.youtube.com/channel/UCqMntUFI_ktxiA3KDmFvItQ"
-    - name: rss-simple
-      url: "index.xml"
+    - name: twitter
+      url: "https://twitter.com/georeinwr"
+
 
 
 

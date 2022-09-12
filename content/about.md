@@ -1,5 +1,6 @@
 ---
 title: "About"
+layout: "other-pages"
 ShowReadingTime: false
 ShowWordCount: false
 ShowBreadcrumbs: false
