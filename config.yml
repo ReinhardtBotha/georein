@@ -46,7 +46,7 @@ outputs:
     - JSON
 
 params:
-  description: "georein.com - a personal blog-style website by Reinhardt Botha."
+  description: "georein.com - a personal GIS website by Reinhardt Botha."
   author:
     - Reinhardt Botha
   ShowShareButtons: true
@@ -84,7 +84,7 @@ params:
   
 
       To get started, please head to the [<u>Posts</u>](posts) page to check out what I have to share. 
-      You can also go to the [<u>About</u>](about) page to learn more about me and the website. Or if you wish to contact me, you can find all my details on the [<u>Contact</u>](contact) page.
+      You can also go to the [<u>About</u>](about) page to learn more about me and the website. Or if you wish to contact me, navigate to the [<u>Contact</u>](contact) page or click on the icons below.
    
       Enjoy!
       
