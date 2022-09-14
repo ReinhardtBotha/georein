@@ -19,7 +19,7 @@ cover:
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-# Intro
+# Introduction
 
 Here is a quick video demonstration of my workflow for contour generation using point cloud (lidar in this case) data in Global Mapper.
 The data that I used was the lidar point clouds for City of Cape Town (South Africa), but the same workflow can be used for any point cloud data format. Global Mapper 18.0 was used in the recording of this tutorial.
