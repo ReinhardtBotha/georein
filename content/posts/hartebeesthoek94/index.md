@@ -26,7 +26,7 @@ In South Africa, the official coordinate system used (since 1999) is the Hartebe
 
 Since it can sometimes be a bit of a struggle to find the correct Lo band to use for your project, I have decided to create a handy web map app indicating the position of these Lo Bands. 
 
-I used ArcGIS Pro, QGIS and ArcGIS Online to create and host these feature layers. It is hosted on my ArcGIS Online Public Account, so I used one of their handy Instant App templates to display and interact with the web map. One useful feature is the search function, which lets you conveniently locate your site area and then visualise where the Lo Band boundaries are in relation to it. The basemap can also be switched between Topographic and Satelite Imagery (with labels). 
+I used QGIS and ArcGIS Online to create and host these feature layers. It is hosted on my ArcGIS Online Public Account, so I used one of their handy Instant App templates to display and interact with the web map. One useful feature is the search function, which lets you conveniently locate your site area and then visualise where the Lo Band boundaries are in relation to it. The basemap can also be switched between Topographic and Satelite Imagery (with labels). 
 
 Now you never have to guess anymore!
 

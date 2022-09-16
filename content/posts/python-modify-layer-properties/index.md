@@ -25,7 +25,7 @@ It is possible to view and/or modify layer properties with Python code using the
 ## Notes
 
 - **Different layer types support different layer properties.** For example, a feature layer supports the `definitionQuery` property, but raster layers don't. There are two approaches for determining which properties can be modified.
-    1. Use the `is` properties method to determine what type of layer it is, to determine which properties can be changed. For example, to check whether it is a feature layer use:
+    1. Use the `is` properties method to establish what type of layer it is, in order to determine which properties can be changed. For example, to check whether it is a feature layer use:
       `isFeatureLayer`.
     2. Use the ``supports`` method, which will attempt to set a specific property and return ``True`` if it was successful. For example, to see whether the layer supports the `definitionQuery` property, run:
       `supports("DEFINITIONQUERY")`.
@@ -77,18 +77,18 @@ Write a for loop to achieve this:
 for lyr in lyrList:
     if lyr.isFeatureLayer:
 ```
-If you wish to view the layer names in the list, we can print it out using: `print(lyr.name)`
+If you wish to view the layer names in the list, it can be printed out using: `print(lyr.name)`
 
 ## 3. Modify properties of layers in the list
 
-Finally, the properties can be modified of the feature layers in the list. In this case, we want to modify the `definitionQuery` properties. This can be done using the following code:
+Finally, the properties can be modified of the feature layers in the list. In this case, we want to modify the `definitionQuery` property. This can be done using the following code:
 
 ```python
 lyr.definitionQuery = "MyFieldName = 'MyFieldValue'"
 ```
 Where "MyFieldName" should be replaced by the field name which you want to apply the Definition Query to, and "MyFieldValue" replaced with the value you want to set.
 
-**Here is a complete example code block of the whole tutorial:**
+**Here is an example of what your code can look like:**
 
 ```python {linenos=true}
 aprx = arcpy.mp.ArcGISProject("CURRENT")
