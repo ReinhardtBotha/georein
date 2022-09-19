@@ -15,7 +15,7 @@ This is a small personal blog that I made for all things GIS related. On this si
 
 <br>
 
-![me](https://pbs.twimg.com/profile_images/1569422762237624321/vdkzdmDy_400x400.jpg)
+![me](https://pbs.twimg.com/profile_images/1570435468365373441/ytNZ5aFb_400x400.jpg)
 
 <br>
 
