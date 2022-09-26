@@ -46,6 +46,7 @@ outputs:
     - JSON
 
 params:
+  env: production
   description: "georein.com - a personal GIS website by Reinhardt Botha."
   author:
     - Reinhardt Botha
