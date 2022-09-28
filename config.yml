@@ -50,9 +50,7 @@ params:
   description: "georein.com - a personal GIS website by Reinhardt Botha."
   author:
     - Reinhardt Botha
-  ShowShareButtons: true
   
-
   mainSections:
     - posts
   #disableAnchoredHeadings: true
@@ -63,6 +61,7 @@ params:
   defaultTheme: auto
   # disableThemeToggle: true
 
+  ShowShareButtons: true
   ShareButtons: ["linkedin", "twitter", "reddit", "facebook", "whatsapp", "telegram"]
   ShowReadingTime: true
   ShowWordCount: true
