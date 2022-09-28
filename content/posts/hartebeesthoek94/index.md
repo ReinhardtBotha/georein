@@ -10,7 +10,7 @@ tags:
   - Hartebeesthoek94
 ShowToc: true
 cover:
-    image: "images/SA_Hartebeesthoek94_webmap.png"
+    image: "images/SA_Hartebeesthoek94_webmap.jpg"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     # alt: "<alt text>"

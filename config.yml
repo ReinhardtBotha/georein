@@ -74,7 +74,7 @@ params:
   TocOpen: true
   TocSide: "left"
   EnableInstantClick: true
-  EnableImageZoom: true
+  EnableImageZoom: false
 
 
   homeInfoParams:

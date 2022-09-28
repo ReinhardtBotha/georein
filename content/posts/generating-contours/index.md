@@ -11,7 +11,7 @@ tags:
   - Global Mapper
 ShowToc: true
 cover:
-    image: "images/gen-contours.png"
+    image: "images/gen-contours.jpg"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     # alt: "<alt text>"
