@@ -89,12 +89,16 @@ params:
       Enjoy!
       
   socialIcons:
+    - name: email
+      url: "mailto:geo.rein@outlook.com"   
+   # - name: skype
+   #   url: "https://join.skype.com/invite/ynIbLLI57JWh"  
     - name: telegram
       url: "https://t.me/georein"
     - name: linkedin
       url: "https://www.linkedin.com/in/wrbotha"
-    - name: youtube-simple
-      url: "https://www.youtube.com/channel/UCqMntUFI_ktxiA3KDmFvItQ"
+    - name: youtube
+      url: "https://www.youtube.com/@georein"
     - name: twitter
       url: "https://twitter.com/georeinwr"
 
