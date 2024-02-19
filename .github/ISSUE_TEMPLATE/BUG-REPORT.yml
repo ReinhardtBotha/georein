@@ -1,5 +1,5 @@
 name: "🐛 Bug Report"
-description: Add a bug report
+description: Add a bug report to the issue tracker.
 title: "[Bug]: "
 labels: ["bug"]
 body:
@@ -38,7 +38,7 @@ body:
       label: "Screenshots / Screen Recordings"
       description: If applicable, add screenshots / screen recordings to help explain your problem.
       value: |
-        Paste, drag and drop your files here, or click option below to upload.
+        Paste, drag and drop, or click option below to add your files here.
     validations:
       required: false
   - type: dropdown
