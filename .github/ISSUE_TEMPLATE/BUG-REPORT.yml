@@ -15,7 +15,7 @@ body:
     id: reprod-url
     attributes:
       label: "Reproduction URL"
-      description: Please enter your GitHub URL to provide a reproduction of the issue
+      description: Please enter deployment URL you are experiencing the issue on
       placeholder: ex. https://github.com/USERNAME/REPO-NAME
     validations:
       required: true
@@ -38,8 +38,7 @@ body:
       label: "Screenshots / Screen Recordings"
       description: If applicable, add screenshots / screen recordings to help explain your problem.
       value: |
-        ![DESCRIPTION](LINK.png)
-      render: bash
+        Paste, drag and drop your files here, or click option below to upload.
     validations:
       required: false
   - type: dropdown
